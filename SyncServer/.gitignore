@@ -1,0 +1,5 @@
+SyncServer.sln
+SyncServer/*
+!SyncServer/SyncServer.cpp
+Debug/
+.vs/
