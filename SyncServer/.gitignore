@@ -1,3 +1,4 @@
 SyncServer.sln
 SyncServer/*
-!SyncServer/SyncServer.cpp
+!SyncServer/*.cpp
+!SyncServer/*.h
