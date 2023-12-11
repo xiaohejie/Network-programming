@@ -1,0 +1,4 @@
+endpoint.sln
+endpoint/*
+!endpoint/*.cpp
+!endpoint/*.h

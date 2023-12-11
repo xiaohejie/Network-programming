@@ -1,0 +1,4 @@
+SyncServer_nianbaowenti.sln
+SyncServer_nianbaowenti/*
+!SyncServer_nianbaowenti/*.cpp
+!SyncServer_nianbaowenti/*.h
