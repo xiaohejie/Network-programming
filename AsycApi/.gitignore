@@ -1,0 +1,4 @@
+AsycApi.sln
+AsycApi/*
+!AsycApi/*.cpp
+!AsycApi/*.h
