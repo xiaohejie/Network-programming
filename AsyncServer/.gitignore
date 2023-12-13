@@ -1,0 +1,4 @@
+AsyncServer.sln
+AsyncServer/*
+!AsyncServer/*.cpp
+!AsyncServer/*.h
