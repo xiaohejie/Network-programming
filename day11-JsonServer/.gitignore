@@ -1,0 +1,7 @@
+day11-JsonServer.sln
+day11-JsonServer/*
+day11-JsonClient/*
+!day11-JsonServer/*.cpp
+!day11-JsonServer/*.h
+!day11-JsonClient/*.cpp
+!day11-JsonClient/*.h
