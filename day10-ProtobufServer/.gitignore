@@ -1,0 +1,10 @@
+day10-AsyncServer.sln
+day10-ProtobufServer/*
+day10-AsyncServer/*
+day10-SyncClient/*
+!day10-AsyncServer/*.cpp
+!day10-AsyncServer/*.cc
+!day10-AsyncServer/*.h
+!day10-SyncClient/*.cpp
+!day10-SyncClient/*.cc
+!day10-SyncClientr/*.h
