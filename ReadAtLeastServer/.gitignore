@@ -1,0 +1,4 @@
+ReadAtLeastServer.sln
+ReadAtLeastServer/*
+!ReadAtLeastServer/*.cpp
+!ReadAtLeastServer/*.h
