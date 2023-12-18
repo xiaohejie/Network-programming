@@ -1,0 +1,10 @@
+day13-LogicServer.sln
+day12-LogicServer/*
+day11-JsonClient/*
+day13-LogicServer/*
+!day12-LogicServer/*.cpp
+!day12-LogicServer/*.h
+!day11-JsonClient/*.cpp
+!day11-JsonClient/*.h
+!day13-LogicServer/*.cpp
+!day13-LogicServer/*.h
