@@ -1,0 +1,10 @@
+day14-IocontextPoolServer.sln
+day14-IocontextPoolServer/*
+day11-JsonClient/*
+day13-LogicServer/*
+!day14-IocontextPoolServer/*.cpp
+!day14-IocontextPoolServer/*.h
+!day11-JsonClient/*.cpp
+!day11-JsonClient/*.h
+!day13-LogicServer/*.cpp
+!day13-LogicServer/*.h
