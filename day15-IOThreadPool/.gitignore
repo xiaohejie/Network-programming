@@ -1,0 +1,11 @@
+day15-IOThreadPool.sln
+day15-IOThreadPool/*
+day11-JsonClient/*
+day13-LogicServer/*
+
+!day15-IOThreadPool/*.cpp
+!day15-IOThreadPool/*.h
+!day11-JsonClient/*.cpp
+!day11-JsonClient/*.h
+!day13-LogicServer/*.cpp
+!day13-LogicServer/*.h

@@ -1,0 +1,8 @@
+day21-CouroutineServer.sln
+day21-CouroutineServer/*
+TestClient/*
+
+!day21-CouroutineServer/*.cpp
+!day21-CouroutineServer/*.h
+!TestClient/*.cpp
+!TestClient/*.h
